@@ -1,0 +1,8 @@
+Homework Questions: 
+
+1. A breakpoint: We add a breakpoint on the line we want to pause the application (where we want the debugger to kick in). We do so by clicking on the left hand side of the application. It will run until it hits the line, it will pause and relaunch an application tool.  
+2. No, the line of code on a breakpoint does not run when you start debugging. 
+3. You can debug the next line of code with the step over button. It will run that line of code, step over to the next, pause and wait to be run. 
+4. Step into will drill into the bit of code you select. For example game.deal, you can click on the deal method, it will take you into the game object and pause at the top of the game method.
+5. Evaluate Expression: You can evaluate and Run Java Code.
+6. Evaluate code fragment: Can run multiple methods and multiple lines of code. 
